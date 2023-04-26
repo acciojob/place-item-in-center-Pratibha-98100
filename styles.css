@@ -1,22 +1,8 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex;
-}
-
-.container < div{
-	border: 2px solid black;
-	color:pink;
-}
-
-.div1,.div2,.div3{
 	border: 2px solid;
-	height: 50px;
-    width:50px;
-}
-
-.holder{
-justify-content:center;
-	
+	display:flex;
+	justify-content:center;
   flex-wrap: wrap;
 }
